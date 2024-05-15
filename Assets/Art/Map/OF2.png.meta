@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d522a98213e86fb4d923c7baadfe0a88
+guid: e0eb4fccbc465cc458b4ab7deb2bc5bb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: OF2_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 424
+        width: 97
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c8028a1634f984da8eb7c3f95225f6
+      internalID: 963621630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OF2_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 371
+        width: 346
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a012670841d3074180355953eba35ef
+      internalID: 369792509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OF2_2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 372
+        width: 99
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd104861f1dbe8458f3e4794fc3b785
+      internalID: 1337050075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +182,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OF2_0: 963621630
+      OF2_1: 369792509
+      OF2_2: 1337050075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
